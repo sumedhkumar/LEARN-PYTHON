@@ -1,0 +1,45 @@
+# .gitignore
+# Ignore the build directory
+build/
+# Ignore the node_modules directory
+node_modules/
+# Ignore the .env file
+.env
+# Ignore the .DS_Store file
+.DS_Store
+# Ignore the .vscode directory
+.vscode/
+# Ignore the .idea directory
+.idea/
+# Ignore the .history directory
+.history/
+# Ignore the .log files
+*.log
+# Ignore the .env.local file
+.env.local
+# Ignore the .env.development.local file
+.env.development.local
+# Ignore the .env.test.local file
+.env.test.local
+# Ignore the .env.production.local file
+.env.production.local
+# Ignore the .env.development file
+.env.development
+# Ignore the .env.test file
+.env.test
+# Ignore the .env.production file
+.env.production
+# Ignore the .env.example file
+.env.example
+# Ignore the .env.example.local file
+.env.example.local
+# Ignore the .env.example.development file
+.env.example.development
+# Ignore the .env.example.test file     
+.env.example.test
+
+# virtual environment
+learn-python/
+# Ignore the .venv directory
+.venv/
+
