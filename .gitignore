@@ -43,3 +43,4 @@ learn-python/
 # Ignore the .venv directory
 .venv/
 
+.DS_Store
